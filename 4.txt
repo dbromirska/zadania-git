@@ -1,3 +1,5 @@
 add fourth file
 
 new conflict's line
+
+another conflict check
