@@ -1,5 +1,12 @@
+
+new text
+=======
 add fourth file
 
 new conflict's line
 
 another conflict check
+=======
+
+new branch
+
