@@ -1,3 +1,1 @@
-add fourth file
-
-new conflict's line
+new text
