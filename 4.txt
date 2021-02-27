@@ -1,1 +1,3 @@
-add fourth file
+spr czy bedzie konflikt w wesjach pliku 4.txt
+
+
